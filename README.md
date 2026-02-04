@@ -6,8 +6,8 @@ This project examines the geographic distribution of reported police incidents a
 ## Data
 - Boston Police Department Incident Reports (2024)
 - American Community Survey (ACS) 5-year estimates:
-  - Poverty rate by census tract
-  - Total population by census tract
+- Poverty rate by census tract
+- Total population by census tract
 
 ## Methods
 Police incident records were spatially joined to census tracts and aggregated to the tract level. Incident counts were normalized by tract population to calculate incidents per 1,000 residents.
